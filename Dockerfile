@@ -7,4 +7,4 @@ COPY . .
 
 RUN yarn
 
-CMD ["node", "server.js"]
+CMD ["yarn", "start"]
